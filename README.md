@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinod-thorat
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on intersting Projects
+- 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me:- https://www.linkedin.com/vinodthorat
 - 
 
